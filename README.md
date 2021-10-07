@@ -1,6 +1,6 @@
 ## Blog & Writing
 
-[https://imcloudfloating.github.io/blog](https://imcloudfloating.gitub.io/blog)
+[https://imcloudfloating.github.io/blog](https://imcloudfloating.github.io/blog)
 
 ## Technologies & Tools
 
