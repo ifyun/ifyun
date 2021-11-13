@@ -23,5 +23,5 @@
 
 ## GitHub Status
 
-![Cloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcloudfloating&show_icons=true&locale=cn&hide=prs&include_all_commits=true&hide_border=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imcloudfloating&layout=compact&locale=cn&hide_border=true&theme=dark)
+![Cloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=imcloudfloating&show_icons=true&locale=cn&hide=prs&include_all_commits=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imcloudfloating&layout=compact&locale=cn&hide_border=true)
