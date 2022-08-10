@@ -1,7 +1,7 @@
 ## Blog & Writing
 
-[Blog](https://imcloudfloating.github.io/blog)  
-[Do JSON with Jackson CN](https://imcloudfloating.github.io/do-json-with-jackson-cn)
+[Blog & Notes](https://imcloudfloating.github.io/blog)  
+[Do JSON with Jackson 中文版](https://imcloudfloating.github.io/do-json-with-jackson-cn)
 
 ## Technologies & Tools
 
