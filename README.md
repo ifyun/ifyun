@@ -1,6 +1,6 @@
 ## Blog & Writing
 
-[Notebook](https://imcloudfloating.github.io/notebook)  
+[Notebook](https://ifyun.github.io/notebook)  
 
 ## Technologies & Tools
 
@@ -23,10 +23,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=imcloudfloating&show_icons=true&locale=cn&hide=prs&include_all_commits=true&hide_border=true" style="max-height: 165px">
+      <img src="https://github-readme-stats.vercel.app/api?username=ifyun&show_icons=true&locale=cn&hide=prs&include_all_commits=true&hide_border=true" style="max-height: 165px">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imcloudfloating&layout=compact&locale=cn&hide_border=true">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifyun&layout=compact&locale=cn&hide_border=true">
     </td>
   </tr>
 </table>
