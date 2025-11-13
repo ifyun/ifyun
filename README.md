@@ -1,7 +1,3 @@
-## Blog & Writing
-
-[Notebook](https://ifyun.github.io/notebook)  
-
 ## Technologies & Tools
 
 ![Debian](https://img.shields.io/badge/OS-Debian-A80030?style=flat-square&logo=Debian&logoColor=A80030)
